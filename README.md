@@ -34,9 +34,11 @@
 <h3>Crazy Calculator</h3>
 <p align="justify"> The Crazy Calculator which is built on Java is a unique implementation of a calculator The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
-# Currently Working on
+# Currently
 <br>
-Finishing my degree on computer science. I'm also working towards completing some of my personal projects, certifications, The Odin Project and also documenting my #100DaysofCode Challenge.
+I'm working on finishing my degree on computer science. I'm alsoo working towards completing some of my personal projects, certifications, The Odin Project n order to prepare me for my OJT in 2024.
+
+I'm also documenting my #100DaysofCode Challenge.
 <br>
 <br>
 <h3>Genshin Artifact Adder</h3>
