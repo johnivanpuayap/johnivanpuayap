@@ -5,10 +5,11 @@
 
 # Skills
 <div style="display: flex; flex-direction: row;">
-    ![1200px-Node js_logo svg](https://user-images.githubusercontent.com/26178408/232866144-a8fc4f76-00a3-4f96-b291-68254caffa36.png)
-    ![6132222](https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png)
-    ![Java_programming_language_logo svg](https://user-images.githubusercontent.com/26178408/232866215-902e2bb9-14e4-436f-a3ee-666395707cb5.png)
-    ![JavaScript-logo](https://user-images.githubusercontent.com/26178408/232866334-3471f960-3341-492e-9d41-469eba32f4dd.png)
+  <img src="https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png" width="100" height="100" title="C++">
+  <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
+  <img src="https://user-images.githubusercontent.com/26178408/232866334-3471f960-3341-492e-9d41-469eba32f4dd.png)" width="100" height="100" title="JavaScript">
+  <img src="https://user-images.githubusercontent.com/26178408/232866950-97796c5f-eab8-46ff-b33f-e90a656bc1a3.png" width="100" height="100" title="Node.js">
+  <img src="https://user-images.githubusercontent.com/26178408/232867086-ac23175b-a636-4128-9934-a16c798a92c8.png" width="100" height="100" title="PHP">
 </div>
 
 # Certifications
