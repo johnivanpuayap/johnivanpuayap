@@ -13,7 +13,6 @@
 
 
 # Projects
-<br>
 <h3>Multi-channel Image Compression using Huffman Coding</h3>
 <p align="justify"> The Multi-channel Image Compression using Huffman Coding project is an academic project implemented in Java. It is designed to compress multi-channel images using the Huffman coding algorithm. The project aims to reduce the size of multi-channel images while maintaining their quality, by efficiently encoding the image data.
 </p>
