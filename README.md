@@ -9,14 +9,11 @@
 <img src="https://user-images.githubusercontent.com/82251402/152732326-9b7ba73e-8436-48eb-b2c3-687b366a50a5.png" width="100" height="100" title="JavaScript">
 
 # Certifications
-<br>
 <a href="https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a>
+<a href="https://www.sololearn.com/certificates/CT-C91QTJO4">Introduction to SQL</a>
+<a href="https://www.sololearn.com/certificates/CT-IYZC6MMK">Java</a>
 
-Introduction to SQL
-https://www.sololearn.com/certificates/CT-C91QTJO4
 
-Java
-https://www.sololearn.com/certificates/CT-IYZC6MMK
 
 
 # Projects
