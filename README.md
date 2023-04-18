@@ -14,16 +14,15 @@
 
 # Projects
 <br>
-A Multi-channel Image Compression using Huffman Coding
-<p align="justify">
-The Multi-channel Image Compression using Huffman Coding project is an academic project implemented in Java. It is designed to compress multi-channel images using the Huffman coding algorithm. The project aims to reduce the size of multi-channel images while maintaining their quality, by efficiently encoding the image data.
+<h3>Multi-channel Image Compression using Huffman Coding</h3>
+<p align="justify"> The Multi-channel Image Compression using Huffman Coding project is an academic project implemented in Java. It is designed to compress multi-channel images using the Huffman coding algorithm. The project aims to reduce the size of multi-channel images while maintaining their quality, by efficiently encoding the image data.
 </p>
 
 
-SPSO Inventory System
+<h3>SPSO Inventory System</h3>
 <p align=”justify”> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC. The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
     
-<h3>Crazy Calculator </h3>
+<h3>Crazy Calculator</h3>
 <p align=”justify”> The Crazy Calculator which is built on Java is a unique implementation of a calculator The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
 # Currently Working on
