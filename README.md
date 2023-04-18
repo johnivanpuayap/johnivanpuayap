@@ -5,7 +5,7 @@
 
 # Skills
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png" width="10%" height="10%" title="C++" > &nbsp;
+  <img src="https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png" width="10%" height="10%" title="C++" > &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="10%" height="10%" title="Java"> &nbsp;
   <img src="https://user-images.githubusercontent.com/26178408/232867315-70885850-6263-4347-b746-fab6c2a65114.png" width="10%" height="10%" title="JavaScript"> &nbsp;
   <img src="https://user-images.githubusercontent.com/26178408/232866950-97796c5f-eab8-46ff-b33f-e90a656bc1a3.png" width="10%" height="10%" title="Node.js"> &nbsp;
