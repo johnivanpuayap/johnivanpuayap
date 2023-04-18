@@ -42,6 +42,7 @@ I'm working on finishing my degree on computer science. I'm alsoo working toward
 <h3>Starry the Explorer Game</h3>
 A game built on Java
 
-#Other Links
-Leetcode: https://leetcode.com/johnivanpuayap/
-Codewars: https://www.codewars.com/users/johnivanpuayap
+# Other Links
+
+<a href="https://leetcode.com/johnivanpuayap/">Leetcode</a>
+<a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a>
