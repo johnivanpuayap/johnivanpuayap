@@ -10,7 +10,7 @@
 
 # Certifications
 <br>
-<a href="https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
+<a href="https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a>
 
 Introduction to SQL
 https://www.sololearn.com/certificates/CT-C91QTJO4
