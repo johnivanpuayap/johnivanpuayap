@@ -32,7 +32,7 @@
 
 # Currently Working on
 <br>
-Finishing my degree on computer science. I'm also working towards completing some of my personal projects, certifications, The Odin Project and and also documenting my #100DaysofCode Challenge.
+Finishing my degree on computer science. I'm also working towards completing some of my personal projects, certifications, The Odin Project and also documenting my #100DaysofCode Challenge.
 <br>
 <br>
 <h3>Genshin Artifact Adder</h3>
