@@ -19,14 +19,10 @@
 
 <a href="https://www.sololearn.com/certificates/CT-IYZC6MMK">Java</a>
 
-
-
-
 # Projects
 <h3>Multi-channel Image Compression using Huffman Coding</h3>
 <p align="justify"> The Multi-channel Image Compression using Huffman Coding project is an academic project implemented in Java. It is designed to compress multi-channel images using the Huffman coding algorithm. The project aims to reduce the size of multi-channel images while maintaining their quality, by efficiently encoding the image data.
 </p>
-
 
 <h3>SPSO Inventory System</h3>
 <p align="justify"> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC. The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
@@ -36,9 +32,7 @@
 
 # Currently
 <br>
-I'm working on finishing my degree on computer science. I'm alsoo working towards completing some of my personal projects, certifications, The Odin Project n order to prepare me for my OJT in 2024.
-
-I'm also documenting my #100DaysofCode Challenge.
+I'm working on finishing my degree on computer science. I'm alsoo working towards completing some of my personal projects, certifications, The Odin Project in order to prepare for my internship in 2024. I'm also currently doing and documenting my #100DaysofCode Challenge mainly focusing on improving my knowledge on back-end technologies.
 <br>
 <br>
 <h3>Genshin Artifact Adder</h3>
@@ -47,3 +41,7 @@ I'm also documenting my #100DaysofCode Challenge.
 
 <h3>Starry the Explorer Game</h3>
 A game built on Java
+
+#Other Links
+Leetcode: https://leetcode.com/johnivanpuayap/
+Codewars: https://www.codewars.com/users/johnivanpuayap
