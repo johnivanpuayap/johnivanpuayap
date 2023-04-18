@@ -21,22 +21,18 @@ The Multi-channel Image Compression using Huffman Coding project is an academic 
 
 
 SPSO Inventory System
-  - <p align=”justify”> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC.
-    The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
+<p align=”justify”> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC. The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
     
-<br>
-Crazy Calculator
-  - <p align=”justify”> The Crazy Calculator which is built on Java is a unique implementation of a calculator.
-    The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
+<h2>Crazy Calculator </h2>
+<p align=”justify”> The Crazy Calculator which is built on Java is a unique implementation of a calculator The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
 #Currently
 <br>
 I'm trying to finish my degree on computer science. I'm also working towards completing some of my personal projects, certifications, The Odin Project and and also documenting my #100DaysofCode Challenge.
 <br>
 1. Genshin Artifact Adder
-  - <p align=”justify”> The Genshin Artifact Adder is a web-based tool built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. This powerful tool enables users to upload artifacts from the popular game, Genshin Impact, and automatically calculates their stats, while ensuring that only valid artifacts are added. The tool features a sleek and intuitive user interface built using React.js, which allows users to easily upload artifacts and view their stats. The backend of the tool is built using Node.js and Express.js, which enables efficient processing of the data and ensures the tool runs smoothly. The Genshin Artifact Adder utilizes MongoDB to store the uploaded artifact data, which allows for easy retrieval and management of the data. The use of the MERN stack ensures that the tool is efficient and scalable, making it ideal for use in managing large numbers of artifacts. </p>
-    
-   <p align=”justify”> One of the key features of the Genshin Artifact Adder is its ability to automatically calculate the stats of the uploaded artifacts. This saves users the time and effort of manually calculating their stats, and ensures that all stats are accurately tracked. In addition, the tool ensures that only valid artifacts are added by implementing strict validation checks. This helps to prevent users from inputting incorrect or invalid artifacts, which can negatively impact their gameplay. </p>
+<p align=”justify”> The Genshin Artifact Adder is a web-based tool built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. This powerful tool enables users to upload artifacts from the popular game, Genshin Impact, and automatically calculates their stats, while ensuring that only valid artifacts are added. The tool features a sleek and intuitive user interface built using React.js, which allows users to easily upload artifacts and view their stats. The backend of the tool is built using Node.js and Express.js, which enables efficient processing of the data and ensures the tool runs smoothly. The Genshin Artifact Adder utilizes MongoDB to store the uploaded artifact data, which allows for easy retrieval and management of the data. The use of the MERN stack ensures that the tool is efficient and scalable, making it ideal for use in managing large numbers of artifacts. </p>
+
 
 2. Starry the Explorer Game
   - a game built on Java
