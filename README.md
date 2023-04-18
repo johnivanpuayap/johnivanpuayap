@@ -4,9 +4,13 @@
   I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
 
 # Skills
-<img src="https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png" width="100" height="100" title="C++">
-<img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
-<img src="https://user-images.githubusercontent.com/82251402/152732326-9b7ba73e-8436-48eb-b2c3-687b366a50a5.png" width="100" height="100" title="JavaScript">
+<div style="display: flex; flex-direction: row;">
+  <img src="https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png" width="100" height="100" title="C++">
+  <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
+  <img src="https://user-images.githubusercontent.com/82251402/152732326-9b7ba73e-8436-48eb-b2c3-687b366a50a5.png" width="100" height="100" title="JavaScript">
+  <img src="https://user-images.githubusercontent.com/82251402/136849026-28ca2f8a-60dc-46cc-96d6-daa1e8e8f9db.png" width="100" height="100" title="Node.js">
+  <img src="https://user-images.githubusercontent.com/82251402/136849134-9f22cd27-8607-4668-8f2c-3d3a14049cbb.png" width="100" height="100" title="PHP">
+</div>
 
 # Certifications
 <a href="https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a>
