@@ -36,4 +36,4 @@ I'm trying to finish my degree on computer science. I'm also working towards com
 
 
 <h3>Starry the Explorer Game</h3>
-  - a game built on Java
+A game built on Java
