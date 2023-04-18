@@ -3,13 +3,20 @@
   Hi there 👋! I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
 
 # Skills
-<br>
 <img src="https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png" width="100" height="100" title="C++">
 <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
 <img src="https://user-images.githubusercontent.com/82251402/152732326-9b7ba73e-8436-48eb-b2c3-687b366a50a5.png" width="100" height="100" title="JavaScript">
 
 # Certifications
 <br>
+JavaScript Algorithms and Data Structures 
+https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures
+
+Introduction to SQL
+https://www.sololearn.com/certificates/CT-C91QTJO4
+
+Java
+https://www.sololearn.com/certificates/CT-IYZC6MMK
 
 
 # Projects
