@@ -2,14 +2,14 @@
 <br>
   Hi there 👋! 
   I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
-  
+
 # Skills
 <div style="display: flex; flex-direction: row;">
   <img src="https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png" width="100" height="100" title="C++">
   <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
   <img src="https://user-images.githubusercontent.com/26178408/232867315-70885850-6263-4347-b746-fab6c2a65114.png" width="100" height="100" title="JavaScript">
   <img src="https://user-images.githubusercontent.com/26178408/232866950-97796c5f-eab8-46ff-b33f-e90a656bc1a3.png" width="100" height="100" title="Node.js">
-  <img src="https://user-images.githubusercontent.com/26178408/232867086-ac23175b-a636-4128-9934-a16c798a92c8.png" width="100" height="100" title="PHP">
+  <img src="https://user-images.githubusercontent.com/26178408/232867520-7cbd7f3b-7a25-436f-8541-391f36e1c100.png" width="100" height="100" title="PHP">
 </div>
 
 # Certifications
