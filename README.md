@@ -1,6 +1,7 @@
 # About
 <br>
-  Hi there 👋! I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
+  Hi there 👋! 
+  I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
 
 # Skills
 <img src="https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png" width="100" height="100" title="C++">
