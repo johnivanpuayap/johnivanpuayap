@@ -45,4 +45,5 @@ A game built on Java
 # Other Links
 
 <a href="https://leetcode.com/johnivanpuayap/">Leetcode</a>
+
 <a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a>
