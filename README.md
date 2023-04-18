@@ -15,9 +15,10 @@
 #Projects
 <br>
 A Multi-channel Image Compression using Huffman Coding
-  - <div style="text-align: justify;">
+<p align="center">
 The Multi-channel Image Compression using Huffman Coding project is an academic project implemented in Java. It is designed to compress multi-channel images using the Huffman coding algorithm. The project aims to reduce the size of multi-channel images while maintaining their quality, by efficiently encoding the image data.
-</div>
+</p>
+
 
 SPSO Inventory System
   - <p align=”justify”> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC.
