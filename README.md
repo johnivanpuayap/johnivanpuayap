@@ -4,7 +4,7 @@
   I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
 
 # Skills
-<div style="display: flex; flex-direction: row; margin-right: 20px;">
+<div style="display: flex; flex-direction: row; margin-right: 500px;">
   <img src="https://user-images.githubusercontent.com/26178408/232866192-93e32100-2d9d-4ff3-b4fd-4ab5bd06fe75.png" width="10%" height="10%" title="C++">
   <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="10%" height="10%" title="Java">
   <img src="https://user-images.githubusercontent.com/26178408/232867315-70885850-6263-4347-b746-fab6c2a65114.png" width="10%" height="10%" title="JavaScript">
