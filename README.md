@@ -1,18 +1,18 @@
-#About
+# About
 <br>
   Hi there 👋! I'm John Ivan Puayap, a computer science student and a backend developer from the Philippines. 
 
-#Skills
+# Skills
 <br>
 <img src="https://user-images.githubusercontent.com/82251402/152732014-ebeee432-6190-4f69-bef7-a054be691b9f.png" width="100" height="100" title="C++">
 <img src="https://user-images.githubusercontent.com/82251402/208086472-e7ed5a35-d756-4540-98b9-1f6c29c67260.png" width="100" height="100" title="Java">
 <img src="https://user-images.githubusercontent.com/82251402/152732326-9b7ba73e-8436-48eb-b2c3-687b366a50a5.png" width="100" height="100" title="JavaScript">
 
-#Certifications
+# Certifications
 <br>
 
 
-#Projects
+# Projects
 <br>
 A Multi-channel Image Compression using Huffman Coding
 <p align="justify">
@@ -23,10 +23,10 @@ The Multi-channel Image Compression using Huffman Coding project is an academic 
 SPSO Inventory System
 <p align=”justify”> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC. The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
     
-<h2>Crazy Calculator </h2>
+<h3>Crazy Calculator </h3>
 <p align=”justify”> The Crazy Calculator which is built on Java is a unique implementation of a calculator The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
-#Currently
+# Currently Working on
 <br>
 I'm trying to finish my degree on computer science. I'm also working towards completing some of my personal projects, certifications, The Odin Project and and also documenting my #100DaysofCode Challenge.
 <br>
