@@ -1,6 +1,6 @@
 # About
 <br>
- <h1> Hi there 👋! </h1>
+ <h3> Hi there 👋! </h3>
 <p align="justify"> My name is John Ivan Puayap! I'm currently pursuing my degree in computer science while also working on various personal projects and certifications. In addition, I'm   actively participating in The Odin Project and undertaking the #100DaysofCode Challenge to expand my knowledge of back-end technologies. All of these efforts are geared towards preparing myself for my upcoming internship in 2024. </p>
 
 # Skills
