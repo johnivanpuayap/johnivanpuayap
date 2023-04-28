@@ -18,7 +18,6 @@
 </div>
 
 # Certifications
-<div style="display: flex; justify-content: space-between;">
  <a href="https://www.freecodecamp.org/certification/johnivanpuayap/javascript-algorithms-and-data-structures" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a>
 
  <a href="https://www.sololearn.com/certificates/CT-C91QTJO4">Introduction to SQL</a>
@@ -26,7 +25,7 @@
  <a href="https://www.sololearn.com/certificates/CT-IYZC6MMK">Java</a>
 
  <a href="https://www.sololearn.com/certificates/CT-IBTIF1EB">PHP</a>
-</div>
+
 
 # Personal Projects I'm working on
 <h3>Multi-channel Image Compression using Huffman Coding</h3>
