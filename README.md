@@ -44,4 +44,4 @@
 
 #Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap&theme=radical)
