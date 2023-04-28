@@ -1,6 +1,6 @@
 # About
 <br>
- <h3> Hi there 👋! </h3>
+ <h2> Hi there 👋! </h2>
 <p align="justify"> My name is John Ivan Puayap! I'm currently pursuing my degree in computer science while also working on various personal projects and certifications. In addition, I'm   actively participating in The Odin Project and undertaking the #100DaysofCode Challenge to expand my knowledge of back-end technologies. All of these efforts are geared towards preparing myself for my upcoming internship in 2024. </p>
 
 # Skills
@@ -27,25 +27,19 @@
  <a href="https://www.sololearn.com/certificates/CT-IBTIF1EB">PHP</a>
 
 
-# Personal Projects I'm working on
+# Personal Projects I'm Currently Working on
 <h3>Multi-channel Image Compression using Huffman Coding</h3>
 <p align="justify"> The Multi-channel Image Compression using Huffman Coding project began as an academic project in Java, but has since become a personal project. Its purpose is to compress multi-channel images using the efficient Huffman coding algorithm, while maintaining high quality. The project's main goal is to reduce the size of multi-channel images by encoding image data in an optimized way.</p>
 
-<h3>SPSO Inventory System</h3>
-<p align="justify"> The SPSO Inventory System is a web-based application built on HTML, CSS, and PHP, designed to manage and track inventory of the Supply and Property Services Office of UPVTC. The system is specifically tailored to the needs of the office, enabling efficient management of stock levels, tracking of items borrowed, and generating reports on inventory levels and usage. </p>
-    
 <h3>Crazy Calculator</h3>
 <p align="justify"> The Crazy Calculator which is built on Java is a unique implementation of a calculator. The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
 <h3>Genshin Artifact Adder</h3>
 <p align="justify"> The Genshin Artifact Adder is a web-based tool built using the MERN stack. This tool enables users to upload artifacts from the popular game, Genshin Impact, and automatically calculates their stats, while ensuring that only valid artifacts are added. The tool features a sleek and intuitive user interface built using React.js, which allows users to easily upload artifacts and view their stats. The backend of the tool is built using Node.js and Express.js, which enables efficient processing of the data and ensures the tool runs smoothly. The Genshin Artifact Adder utilizes MongoDB to store the uploaded artifact data, which allows for easy retrieval and management of the data.</p>
 
-
-<h3>Starry the Explorer Game</h3>
-A game built on Java
-
 # Other Links
-
 <a href="https://leetcode.com/johnivanpuayap/">Leetcode</a>
-
 <a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a>
+
+#Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap &theme=radical)
