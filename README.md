@@ -40,6 +40,6 @@
 
 <a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a>
 
-#Stats
+# Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap&theme=radical)
