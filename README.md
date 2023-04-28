@@ -24,6 +24,8 @@
 
 <a href="https://www.sololearn.com/certificates/CT-IYZC6MMK">Java</a>
 
+<a href="https://www.sololearn.com/certificates/CT-IBTIF1EB">PHP</a>
+
 # Personal Projects I'm working on
 <h3>Multi-channel Image Compression using Huffman Coding</h3>
 <p align="justify"> The Multi-channel Image Compression using Huffman Coding project began as an academic project in Java, but has since become a personal project. Its purpose is to compress multi-channel images using the efficient Huffman coding algorithm, while maintaining high quality. The project's main goal is to reduce the size of multi-channel images by encoding image data in an optimized way.</p>
