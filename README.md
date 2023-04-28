@@ -39,7 +39,9 @@
 
 # Other Links
 <a href="https://leetcode.com/johnivanpuayap/">Leetcode</a>
+
 <a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a>
 
 #Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap &theme=radical)
