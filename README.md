@@ -44,4 +44,6 @@ Feel free to reach out to me via email at johnivanpuayap@gmail.com or connect wi
 <h3><a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a></h3>
 
 # Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact)
