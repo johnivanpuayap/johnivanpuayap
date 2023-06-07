@@ -1,5 +1,7 @@
 # Hi there 👋!
-<p align="justify"> My name is John Ivan Puayap! I'm currently pursuing my degree in computer science while also working on various personal projects and certifications. In addition, I'm   actively participating in The Odin Project and undertaking the #100DaysofCode Challenge to expand my knowledge of back-end technologies. All of these efforts are geared towards preparing myself for my upcoming internship in 2024. </p>
+<p align="justify"> My name is John Ivan Puayap, and I am a computer science student with a passion for backend development. I am currently pursuing my degree while actively working on personal projects and pursuing certifications to expand my knowledge and skills in this field. As part of my continuous learning journey, I have taken up the #100DaysofCode Challenge to further enhance my expertise.
+
+In addition to programming, I have diverse interests outside the tech world. I enjoy watching TV shows, particularly comedy genres that bring laughter and entertainment. I also find joy in playing video games, immersing myself in different virtual worlds and experiencing exciting adventures. These hobbies provide me with relaxation and serve as a source of inspiration and creativity in my coding endeavors. Ultimately, my goal is to become a proficient backend developer and leverage my skills to make a meaningful impact in the world of technology. </p>
 
 # Skills
 <div style="display: flex; justify-content: space-between;">
