@@ -43,5 +43,5 @@ Feel free to reach out to me via email at johnivanpuayap@gmail.com or connect wi
 <h3><a href="https://leetcode.com/johnivanpuayap/">Leetcode</a></h3>
 <h3><a href="https://www.codewars.com/users/johnivanpuayap">Codewars</a></h3>
 
-<!--# Stats-->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnivanpuayap&theme=radical) -->
+# Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact)
