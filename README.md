@@ -10,8 +10,8 @@ In addition to programming, I have diverse interests outside the tech world. I e
 <h3><a href="https://github.com/johnivanpuayap/CrazyCalculator">Crazy Calculator</h3>
 <p align="justify"> The Crazy Calculator which is built on Java is a unique implementation of a calculator. The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
 
-<h3>Genshin Artifact Adder</h3>
-<p align="justify"> The Genshin Artifact Adder is a web-based tool built using the MERN stack. This tool enables users to upload artifacts from the popular game, Genshin Impact, and automatically calculates their stats, while ensuring that only valid artifacts are added. The tool features a sleek and intuitive user interface built using React.js, which allows users to easily upload artifacts and view their stats. The backend of the tool is built using Node.js and Express.js, which enables efficient processing of the data and ensures the tool runs smoothly. The Genshin Artifact Adder utilizes MongoDB to store the uploaded artifact data, which allows for easy retrieval and management of the data.</p>
+<!-- <h3>Genshin Artifact Adder</h3>
+<p align="justify"> The Genshin Artifact Adder is a web-based tool built using the MERN stack. This tool enables users to upload artifacts from the popular game, Genshin Impact, and automatically calculates their stats, while ensuring that only valid artifacts are added. The tool features a sleek and intuitive user interface built using React.js, which allows users to easily upload artifacts and view their stats. The backend of the tool is built using Node.js and Express.js, which enables efficient processing of the data and ensures the tool runs smoothly. The Genshin Artifact Adder utilizes MongoDB to store the uploaded artifact data, which allows for easy retrieval and management of the data.</p> -->
   
 # Skills
  <div style="display: flex; justify-content: space-between;">
