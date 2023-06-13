@@ -5,7 +5,7 @@ In addition to programming, I have diverse interests outside the tech world. I e
 
 # Personal Projects
 <h3><a href="https://github.com/johnivanpuayap/100-days-of-code">100 Days of Code</a></h3>
-<p align="justify"> The "100-Days-of-Code" repository chronicles my personal journey to enhance my coding skills over a period of 100 days, starting from June 5, 2023, and concluding on September 12, 2023. Inspired by Alexander Kallaway's #100DaysOfCodeChallenge, this endeavor involves dedicating a minimum of 3 to 4 hours each day to coding activities. For more information about the challenge, you can visit here.</p>
+<p align="justify"> The "100-Days-of-Code" repository chronicles my personal journey to enhance my coding skills over a period of 100 days, starting from June 5, 2023<!--, and concluding on September 12, 2023-->. Inspired by Alexander Kallaway's #100DaysOfCodeChallenge, this endeavor involves dedicating a minimum of 3 to 4 hours each day to coding activities. For more information about the challenge, you can visit here.</p>
 
 <h3><a href="https://github.com/johnivanpuayap/CrazyCalculator">Crazy Calculator</h3>
 <p align="justify"> The Crazy Calculator which is built on Java is a unique implementation of a calculator. The mathematical operations are processed using stacks that are implemented using queues. Queues, in turn, are implemented using arrays that are implemented using linked lists. </p>
