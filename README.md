@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact)
-
+![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
