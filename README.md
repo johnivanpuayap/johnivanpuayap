@@ -1,8 +1,9 @@
 ## About Me
 - 🔭 I am currently pursuing a Bachelor of Science in Computer Science.
-- 🌱 I am actively learning how to create APIs and exploring the world of machine learning.
+- 💡 I am interested in backend development and machine learning.
+- 🌱 I am currently learning how to create GraphQL and RESTful APIs.
 - 📫 You can reach me at johnivanpuayap@gmail.com.
-- 🤝 I am also open to contributing to open-source projects.
+- 🤝 I’m currently looking for an internship opportunity and am open to contributing to open-source projects
 
 
 ## Languages and Tools:
