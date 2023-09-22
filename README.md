@@ -1,5 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+### About Me
+<br>
+- 🔭 I am currently pursuing a Bachelor of Science in Computer Science.
+- 🌱 I am actively learning how to create APIs and exploring the world of machine learning.
+- 📫 You can reach me at johnivanpuayap@gmail.com.
+- 🤝 I am also open to contributing to open-source projects.
+<br><br>
+
+
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -14,3 +21,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" style="padding-right:10px; pointer-events: none;" />
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
