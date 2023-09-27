@@ -26,3 +26,4 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Leetcode Stats](https://leetcard.jacoblin.cool/johnivanpuayap)
