@@ -3,8 +3,6 @@
 - 💡 I am interested in backend development and machine learning.
 - 🌱 I am currently learning how to create GraphQL and RESTful APIs.
 - 📫 You can reach me at johnivanpuayap@gmail.com.
-- 🤝 I’m currently looking for an internship opportunity and I am open to contributing to open-source projects.
-
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
