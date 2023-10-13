@@ -1,5 +1,5 @@
 ## About Me
-- 🔭 I am currently pursuing a Bachelor of Science in Computer Science.
+- 🔭 I am currently pursuing a Bachelor of Science in Computer Science at Cebu Institute of Technology-University
 - 💡 I am interested in backend development and machine learning.
 - 🌱 I am currently learning how to create GraphQL and RESTful APIs.
 - 📫 You can reach me at johnivanpuayap@gmail.com.
