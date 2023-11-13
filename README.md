@@ -1,6 +1,6 @@
 ## About Me
 - 🔭 I am currently pursuing a Bachelor of Science in Computer Science at Cebu Institute of Technology-University
-- 💡 I am an aspiring software engineer
+- 💡 I am an aspiring Software Engineer
 - 🌱 I am currently learning how to create Smart Contracts and decentralized Apps (dApps).
 - 📫 You can reach me at johnivanpuayap@gmail.com.
 
