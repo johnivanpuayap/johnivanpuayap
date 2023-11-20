@@ -1,7 +1,7 @@
 ## About Me
 - 🔭 I am currently pursuing a Bachelor of Science in Computer Science at Cebu Institute of Technology-University
 - 💡 I am an aspiring Software Engineer
-- 🌱 Currently, I'm learning how to build and deploy full-stack applications, working with both frontend and backend technologies.
+- 🌱 I am currently learning how to build and deploy full-stack applications, working with both frontend and backend technologies. Additionally, I am also diving into the realm of machine learning!
 - 📫 You can reach me at johnivanpuayap@gmail.com.
 
 ## Skills
