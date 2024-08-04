@@ -1,9 +1,19 @@
 ## About Me
-- 👨‍💻 Pursuing a Bachelor of Science in Computer Science at Cebu Institute of Technology-University.
-- 🚀 Currently delving into building and deploying full-stack web and mobile applications, mastering both frontend and backend technologies, and excitedly exploring machine learning and generative AI!
-- 🎯 Recently passed the PhilNITS Fundamental Engineer exam and obtained Level 3 (Competent) in the 10th TOPCIT Exam.
-- 📧 Reach out to me at johnivanpuayap@gmail.com for any inquiries or collaborations!
 
+- 👨‍💻 **Bachelor of Science in Computer Science** at Cebu Institute of Technology-University, currently pursuing my degree with a focus on both theoretical and practical aspects of computing.
+- 🚀 **Web Development Enthusiast:** Passionate about building and deploying web applications. Skilled in backend technologies, with ongoing exploration in frontend technologies
+- 🎯 **Certifications:** Recently passed the PhilNITS Fundamental Engineer exam and achieved Level 3 (Competent) in the 10th TOPCIT Exam, demonstrating a solid foundation and proficiency in technical skills.
+- 📧 **Contact Me:** Feel free to reach out at [johnivanpuayap@gmail.com](mailto:johnivanpuayap@gmail.com) for inquiries, collaborations, or networking opportunities!
+
+## Experience
+
+- **Intern**, Alliance Software, Inc. *(June 2024 - August 2024)*  
+  - **Helpdesk Ticketing System Development:** Contributed to the development of a [helpdesk ticketing system](https://github.com/AllianceDesk/AllianceDesk).
+    - **Backend Development:** Designed and implemented backend services using ASP.NET, including creating and managing controllers, services, and views.
+    - **Database Management:** Assisted in structuring and managing the MySQL database, ensuring data integrity and performance optimization.
+    - **Asynchronous Services:** Developed and maintained background and asynchronous services to enhance system performance and responsiveness.
+  - **Technologies Used:** Utilized ASP.NET, C#, MySQL, JavaScript, HTML, and CSS to build and enhance the application.
+    
 ## Skills
 ### Languages:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; pointer-events: none;" />
@@ -28,12 +38,16 @@
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" style="padding-right:10px; pointer-events: none;"/>
 <img align="left" alt="Tailwind CSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" style="padding-right:10px; pointer-events: none;"/>
 <img align="left" alt="Anchor" width="26px" src="https://github.com/johnivanpuayap/johnivanpuayap/assets/26178408/1a9a86ee-3ade-4576-8596-1a550d5eefae" style="padding-right:10px; pointer-events: none;"/>
+<img align="left" alt="ASP.NET" width="26px" src="https://avatars.githubusercontent.com/u/9141961" style="padding-right:10px; pointer-events: none;"/>
 <br>
 
 ### Tools
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; pointer-events: none;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; pointer-events: none;" />
 <img align="left" alt="MongoDB" width="26px" src="https://avatars.githubusercontent.com/u/45120" style="padding-right:10px; pointer-events: none;" />
+<img align="left" alt="SourceTree" width="26px" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" style="padding-right:10px; pointer-events: none;" />
+<img align="left" alt="Postman" width="26px" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" style="padding-right:10px; pointer-events: none;" />
+<img align="left" alt="SQL Server Management Studio" width="26px" src="https://github.com/user-attachments/assets/64b39724-b997-47a5-9ba1-15bec13ab255" style="padding-right:10px; pointer-events: none;" />
 <br>
 
 ## Stats
