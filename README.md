@@ -1,10 +1,12 @@
 ## About Me
 
 - 👨‍💻 **Bachelor of Science in Computer Science** at Cebu Institute of Technology-University, currently pursuing my degree with a focus on both theoretical and practical aspects of computing.
+  
 - 🚀 **Web Development Enthusiast:** Passionate about building and deploying web applications. Skilled in backend technologies, with ongoing exploration in frontend technologies
-- 🎯 **Certifications:** Recently passed the PhilNITS Fundamental Engineer exam and achieved Level 3 (Competent) in the 10th TOPCIT Exam, demonstrating a solid foundation and proficiency in technical skills.
+<!-- - 🎯 **Certifications:** Recently passed the PhilNITS Fundamental Engineer exam and achieved Level 3 (Competent) in the 10th TOPCIT Exam, demonstrating a solid foundation and proficiency in technical skills. -->
 - 📧 **Contact Me:** Feel free to reach out at [johnivanpuayap@gmail.com](mailto:johnivanpuayap@gmail.com) for inquiries, collaborations, or networking opportunities!
 
+<!--
 ## Experience
 
 - **Intern**, Alliance Software, Inc. *(June 2024 - August 2024)*  
@@ -12,7 +14,7 @@
     - **Backend Development:** Designed and implemented backend services using ASP.NET, including creating and managing controllers, services, and views.
     - **Database Management:** Assisted in structuring and managing the MySQL database, ensuring data integrity and performance optimization.
     - **Asynchronous Services:** Developed and maintained background and asynchronous services to enhance system performance and responsiveness.
-  - **Technologies Used:** Utilized ASP.NET, C#, MySQL, JavaScript, HTML, and CSS to build and enhance the application.
+  - **Technologies Used:** Utilized ASP.NET, C#, MySQL, JavaScript, HTML, and CSS to build and enhance the application. -->
     
 ## Skills
 ### Languages:
