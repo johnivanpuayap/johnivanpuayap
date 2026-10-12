@@ -1,58 +1,69 @@
-## About Me
+<a href="https://johnivanpuayap.github.io">
+  <img src="assets/storefront.svg" alt="John Ivan Puayap — Software, handcrafted fresh daily." width="100%">
+</a>
 
-- 👨‍💻 **Bachelor of Science in Computer Science** at Cebu Institute of Technology-University, currently pursuing my degree with a focus on both theoretical and practical aspects of computing.
-  
-- 🚀 **Web Development Enthusiast:** Passionate about building and deploying web applications. Skilled in backend technologies, with ongoing exploration in frontend technologies
-<!-- - 🎯 **Certifications:** Recently passed the PhilNITS Fundamental Engineer exam and achieved Level 3 (Competent) in the 10th TOPCIT Exam, demonstrating a solid foundation and proficiency in technical skills. -->
-- 📧 **Contact Me:** Feel free to reach out at [johnivanpuayap@gmail.com](mailto:johnivanpuayap@gmail.com) for inquiries, collaborations, or networking opportunities!
+I'm John Ivan, a software engineer who builds things because I wonder if I can. This is the GitHub branch of the shop; the full storefront is at **[johnivanpuayap.github.io](https://johnivanpuayap.github.io)**.
 
-<!--
-## Experience
+## The Build Log
 
-- **Intern**, Alliance Software, Inc. *(June 2024 - August 2024)*  
-  - **Helpdesk Ticketing System Development:** Contributed to the development of a [helpdesk ticketing system](https://github.com/AllianceDesk/AllianceDesk).
-    - **Backend Development:** Designed and implemented backend services using ASP.NET, including creating and managing controllers, services, and views.
-    - **Database Management:** Assisted in structuring and managing the MySQL database, ensuring data integrity and performance optimization.
-    - **Asynchronous Services:** Developed and maintained background and asynchronous services to enhance system performance and responsiveness.
-  - **Technologies Used:** Utilized ASP.NET, C#, MySQL, JavaScript, HTML, and CSS to build and enhance the application. -->
-    
-## Skills
-### Languages:
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" style="padding-right:10px; pointer-events: none;" />
+<sub>CAREER, CHRONOLOGICALLY — LIKE COMMIT HISTORY, BUT FOR LIFE</sub>
 
-<br>
+- **Software Engineer** · Ereflect · <sub>APR 2025 — PRESENT</sub><br>Shipping features across multiple products in Angular and Ionic, reviewing code, and nudging the team toward better practices.
+- **Summer Intern** · Alliance Software Inc · <sub>JUN — AUG 2024</sub><br>Led backend development on a helpdesk system: database design, SQL, background services.
+- **Freelance Web Developer** · Various clients · <sub>2020 — 2023</sub><br>Landing pages and small-business sites, built and maintained.
+- **BS Computer Science** · Cebu Institute of Technology – University · <sub>2022 — 2025</sub>
 
-### Frameworks
-<img align="left" alt="Flutter" width="26px" src="https://avatars.githubusercontent.com/u/14101776" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/react/react.png" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="Express" width="26px" src="https://avatars.githubusercontent.com/u/5658226" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="Tailwind CSS" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="Anchor" width="26px" src="https://github.com/johnivanpuayap/johnivanpuayap/assets/26178408/1a9a86ee-3ade-4576-8596-1a550d5eefae" style="padding-right:10px; pointer-events: none;"/>
-<img align="left" alt="ASP.NET" width="26px" src="https://avatars.githubusercontent.com/u/9141961" style="padding-right:10px; pointer-events: none;"/>
-<br>
+**Certified:** PhilNITS FE Passer (May 2024) · TOPCIT Level 3, twice (Apr & Nov 2024)
 
-### Tools
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="MongoDB" width="26px" src="https://avatars.githubusercontent.com/u/45120" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="SourceTree" width="26px" src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="Postman" width="26px" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" style="padding-right:10px; pointer-events: none;" />
-<img align="left" alt="SQL Server Management Studio" width="26px" src="https://github.com/user-attachments/assets/64b39724-b997-47a5-9ba1-15bec13ab255" style="padding-right:10px; pointer-events: none;" />
-<br>
+## The Toolboard
 
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
-![Leetcode Stats](https://leetcard.jacoblin.cool/johnivanpuayap)
+<sub>EVERY TOOL ON THIS BOARD HAS BEEN USED IN ANGER</sub>
+
+**Languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-231814?style=flat-square&logo=typescript&logoColor=EB5A3C)
+![JavaScript](https://img.shields.io/badge/JavaScript-231814?style=flat-square&logo=javascript&logoColor=EB5A3C)
+![Python](https://img.shields.io/badge/Python-231814?style=flat-square&logo=python&logoColor=EB5A3C)
+![Java](https://img.shields.io/badge/Java-231814?style=flat-square&logo=openjdk&logoColor=EB5A3C)
+![C#](https://img.shields.io/badge/C%23-231814?style=flat-square&logo=dotnet&logoColor=EB5A3C)
+![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-231814?style=flat-square&logo=cplusplus&logoColor=EB5A3C)
+![Dart](https://img.shields.io/badge/Dart-231814?style=flat-square&logo=dart&logoColor=EB5A3C)
+![PHP](https://img.shields.io/badge/PHP-231814?style=flat-square&logo=php&logoColor=EB5A3C)
+![Rust](https://img.shields.io/badge/Rust-231814?style=flat-square&logo=rust&logoColor=EB5A3C)
+![Kotlin](https://img.shields.io/badge/Kotlin-231814?style=flat-square&logo=kotlin&logoColor=EB5A3C)
+
+**Frameworks**<br>
+![Angular](https://img.shields.io/badge/Angular-EB5A3C?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-EB5A3C?style=flat-square&logo=ionic&logoColor=white)
+![React](https://img.shields.io/badge/React-EB5A3C?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-EB5A3C?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-EB5A3C?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-EB5A3C?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-EB5A3C?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express-EB5A3C?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-EB5A3C?style=flat-square&logo=flask&logoColor=white)
+
+**Data & Tools**<br>
+![MySQL](https://img.shields.io/badge/MySQL-231814?style=flat-square&logo=mysql&logoColor=EB5A3C)
+![MongoDB](https://img.shields.io/badge/MongoDB-231814?style=flat-square&logo=mongodb&logoColor=EB5A3C)
+![Firebase](https://img.shields.io/badge/Firebase-231814?style=flat-square&logo=firebase&logoColor=EB5A3C)
+![Supabase](https://img.shields.io/badge/Supabase-231814?style=flat-square&logo=supabase&logoColor=EB5A3C)
+![SQLite](https://img.shields.io/badge/SQLite-231814?style=flat-square&logo=sqlite&logoColor=EB5A3C)
+![Docker](https://img.shields.io/badge/Docker-231814?style=flat-square&logo=docker&logoColor=EB5A3C)
+![Git](https://img.shields.io/badge/Git-231814?style=flat-square&logo=git&logoColor=EB5A3C)
+![Postman](https://img.shields.io/badge/Postman-231814?style=flat-square&logo=postman&logoColor=EB5A3C)
+
+## The Ledger
+
+<img src="https://github-readme-stats-johnivanpuayap.vercel.app/api?username=johnivanpuayap&show_icons=true&hide_border=false&border_radius=10&bg_color=FFFFFF&border_color=231814&title_color=EB5A3C&icon_color=EB5A3C&text_color=231814" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats-johnivanpuayap.vercel.app/api/top-langs/?username=johnivanpuayap&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&border_radius=10&bg_color=FFFFFF&border_color=231814&title_color=EB5A3C&text_color=231814" alt="Top languages" height="170">
+
+<img src="https://leetcard.jacoblin.cool/johnivanpuayap?theme=light&font=Fragment%20Mono" alt="LeetCode stats">
+
+## The Front Desk
+
+<sub>HIRING, COMMISSIONING A BUILD, OR JUST CURIOUS — SAY HI. I READ EVERYTHING.</sub>
+
+[![Visit the shop](https://img.shields.io/badge/Visit%20the%20shop-EB5A3C?style=for-the-badge)](https://johnivanpuayap.github.io)
+[![Email](https://img.shields.io/badge/Email-231814?style=for-the-badge)](mailto:johnivanpuayap@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-231814?style=for-the-badge)](https://www.linkedin.com/in/johnivanpuayap/)
+[![Resume](https://img.shields.io/badge/Resume-231814?style=for-the-badge)](https://johnivanpuayap.github.io/resume.pdf)
