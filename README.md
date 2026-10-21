@@ -1,8 +1,8 @@
-<a href="https://johnivanpuayap.github.io">
+<a href="https://ivanpuayap.dev">
   <img src="assets/storefront.svg" alt="John Ivan Puayap — Software, handcrafted fresh daily." width="100%">
 </a>
 
-I'm John Ivan, a software engineer who builds things because I wonder if I can. This is the GitHub branch of the shop; the full storefront is at **[johnivanpuayap.github.io](https://johnivanpuayap.github.io)**.
+I'm John Ivan, a software engineer who builds things because I wonder if I can. This is the GitHub branch of the shop; the full storefront is at **[ivanpuayap.dev](https://ivanpuayap.dev)**.
 
 ## The Build Log
 
@@ -63,7 +63,7 @@ I'm John Ivan, a software engineer who builds things because I wonder if I can. 
 
 <sub>HIRING, COMMISSIONING A BUILD, OR JUST CURIOUS — SAY HI. I READ EVERYTHING.</sub>
 
-[![Visit the shop](https://img.shields.io/badge/Visit%20the%20shop-EB5A3C?style=for-the-badge)](https://johnivanpuayap.github.io)
+[![Visit the shop](https://img.shields.io/badge/Visit%20the%20shop-EB5A3C?style=for-the-badge)](https://ivanpuayap.dev)
 [![Email](https://img.shields.io/badge/Email-231814?style=for-the-badge)](mailto:johnivanpuayap@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-231814?style=for-the-badge)](https://www.linkedin.com/in/johnivanpuayap/)
-[![Resume](https://img.shields.io/badge/Resume-231814?style=for-the-badge)](https://johnivanpuayap.github.io/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-231814?style=for-the-badge)](https://ivanpuayap.dev/resume.pdf)
